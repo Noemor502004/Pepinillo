@@ -6,6 +6,7 @@ public class Prin2 {
 		// TODO Esbozo de método generado automáticamente
 		System.out.println("línea 1");
 		System.out.println("línea 2");
+		System.out.println("linea 3");
 	}
 
 }
